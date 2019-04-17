@@ -31,3 +31,4 @@ public interface UsuariRepository extends PagingAndSortingRepository<Usuari,Inte
 
 }
 
+
