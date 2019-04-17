@@ -29,3 +29,4 @@ public interface BugRepository extends PagingAndSortingRepository<Bug,Integer> {
     void deleteByUsuari(@Param("usuari") String usuari);
 
 }
+
