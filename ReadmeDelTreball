@@ -1,0 +1,4 @@
+Hem creat y assignat una serie d'atributs com categoria o estat, a la operació consistent a registrar un bug.
+Ho hem realitzat seguint una serie de pasos, desde Donar d'alta un Bug fins a altres funcions com buscar o eliminar per atributs.
+hem analitzat, dissenyat y desenvolupat doncs el servei web ReST pertinent creant dos clases, la classe Bug amb els seus atributs y referéncies, I la classe repository per a diverses funcions.
+Finalment hem pujat el projecte al GitHub.
