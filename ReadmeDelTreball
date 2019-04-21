@@ -1,3 +1,5 @@
+Los miembros del grupo somos Adriá Soler y Enric Crespo.
+
 Hem creat y assignat una serie d'atributs com categoria o estat, a la operació consistent a registrar un bug.
 Ho hem realitzat seguint una serie de pasos, desde Donar d'alta un Bug fins a altres funcions com buscar o eliminar per atributs.
 hem analitzat, dissenyat y desenvolupat doncs el servei web ReST pertinent creant dos clases, la classe Bug amb els seus atributs y referéncies, I la classe repository per a diverses funcions.
@@ -48,3 +50,5 @@ Ejemplo: curl -i -X GET http://localhost:8080/bug/search/deleteByUsuari?usuari=M
 
 - Eliminar por juegp: Operación DELETE /bug/{videojoc bug} Parametros de Entrada NONE Salida:
 Ejemplo: curl -i -X DELETE http://localhost:8080/bug/Hearthstone
+
+
