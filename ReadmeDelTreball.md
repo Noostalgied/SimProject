@@ -51,4 +51,3 @@ Ejemplo: curl -i -X GET http://localhost:8080/bug/search/deleteByUsuari?usuari=M
 - Eliminar por juegp: Operación DELETE /bug/{videojoc bug} Parametros de Entrada NONE Salida:
 Ejemplo: curl -i -X DELETE http://localhost:8080/bug/Hearthstone
 
-
